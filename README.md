@@ -1,1 +1,1 @@
-This repository contains materials for the Advanced Econometrics course at the University of Warsaw (Spring 2026).
+To repozytorium zawiera materiały związane z ćwiczeniami z przedmiotu Zaawansowana Ekonometria na Uniwersytecie Warszawskim (semestr letni 2026, grupa 101).
